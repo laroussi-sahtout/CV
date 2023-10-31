@@ -1,0 +1,22 @@
+.personal-information{
+    background-color : blanchedalmond;
+}
+.icon-move{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+    background-color: blanchedalmond;
+    
+}
+body {text-align: center;}
+p {font-weight: bolder;}
+.Information { 
+    background-color: blanchedalmond;
+}
+.Experience {
+    background-color: blanchedalmond;
+}
+.Etude {
+    background-color: blanchedalmond;
+}
